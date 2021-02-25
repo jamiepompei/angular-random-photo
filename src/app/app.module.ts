@@ -13,8 +13,9 @@ import { PhotopageComponent } from './photopage/photopage.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    AppRoutingModule
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
